@@ -28,11 +28,11 @@ Currently, I’m expanding my skills to become proficient in **ASP.NET** and **G
 Here are some of the projects I’ve worked on:  
 
 #### **Public Projects**  
-1. **[File Manager](link)**: A file management system built with Laravel and Vue.js, integrated with Google Drive and Google Sheets.  
-2. **[My Salon](https://github.com/abdulrahmanhussin1/MySalon)**: A web application for managing salon appointments, services, and customer data.  
-3. **[Yummy Restaurant](link)**: A company profile web application for a restaurant.  
-4. **[Todo App](link)**: A task management web application.  
-5. **[Gallery App](link)**: A photo gallery application using the repository pattern for efficient data handling.  
+1. **[File Manager]((https://github.com/abdulrahmanhussin1/laravel-vue-file-manager))**: A file management system built with Laravel and Vue.js, integrated with Google Drive and Google Sheets.  
+2. **[POS-Salon-Appointment-manager]([https://github.com/abdulrahmanhussin1/MySalon](https://github.com/abdulrahmanhussin1/salon-appointment-manager))**: A web application for managing salon appointments, services, and customer data.  
+3. **[Yummy Restaurant]((https://github.com/abdulrahmanhussin1/Yummy-Resturant))**: A company profile web application for a restaurant.  
+4. **[Todo App]((https://github.com/abdulrahmanhussin1/todo-app))**: A task management web application.  
+5. **[Gallery App]((https://github.com/abdulrahmanhussin1/GalleryApp))**: A photo gallery application using the repository pattern for efficient data handling.  
 
 #### **Private/Internal Projects**  
 - **Ticketing Module**: A comprehensive web application for managing tickets with real-time updates, integrating SMTP and IMAP for email communication.  
