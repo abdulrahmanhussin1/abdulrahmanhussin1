@@ -27,12 +27,30 @@ Currently, I’m expanding my skills to become proficient in **ASP.NET** and **G
 ### 🚀 **Featured Projects**  
 Here are some of the projects I’ve worked on:  
 
-#### **Public Projects**  
-1. **[File Manager]((https://github.com/abdulrahmanhussin1/laravel-vue-file-manager))**: A file management system built with Laravel and Vue.js, integrated with Google Drive and Google Sheets.  
-2. **[POS-Salon-Appointment-manager]([https://github.com/abdulrahmanhussin1/MySalon](https://github.com/abdulrahmanhussin1/salon-appointment-manager))**: A web application for managing salon appointments, services, and customer data.  
-3. **[Yummy Restaurant]((https://github.com/abdulrahmanhussin1/Yummy-Resturant))**: A company profile web application for a restaurant.  
-4. **[Todo App]((https://github.com/abdulrahmanhussin1/todo-app))**: A task management web application.  
-5. **[Gallery App]((https://github.com/abdulrahmanhussin1/GalleryApp))**: A photo gallery application using the repository pattern for efficient data handling.  
+## Public Projects
+
+Here's a showcase of my projects that demonstrate my skills and experience in backend development:
+
+1. **[File Manager](https://github.com/abdulrahmanhussin1/laravel-vue-file-manager)**:
+
+   This project is a file management system built using Laravel for the backend and Vue.js for the frontend. It offers seamless integration with Google Drive and Google Sheets, providing a robust and user-friendly solution for managing files and data.
+
+2. **[POS-Salon-Appointment-manager](https://github.com/abdulrahmanhussin1/salon-appointment-manager)**:
+
+   This web application caters to the needs of salons by streamlining appointment scheduling, service management, and customer data handling. It empowers salon owners and staff to efficiently manage their operations.
+
+3. **[Yummy Restaurant](https://github.com/abdulrahmanhussin1/Yummy-Resturant)**:
+
+   This project serves as a company profile web application for a restaurant, showcasing their offerings and information in an engaging and informative manner. It allows potential customers to learn more about the restaurant and its services.
+
+4. **[Todo App](https://github.com/abdulrahmanhussin1/todo-app)**:
+
+   This web application is a practical tool for managing tasks and staying organized. It provides a user-friendly interface for creating, managing, and tracking to-do items, enhancing productivity and efficiency.
+
+5. **[Gallery App](https://github.com/abdulrahmanhussin1/GalleryApp)**:
+
+   This project demonstrates the implementation of the repository pattern for efficient data handling. It showcases a photo gallery application that leverages this pattern to ensure organized and maintainable code.
+
 
 #### **Private/Internal Projects**  
 - **Ticketing Module**: A comprehensive web application for managing tickets with real-time updates, integrating SMTP and IMAP for email communication.  
